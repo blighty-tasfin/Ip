@@ -1,0 +1,763 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV World
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",Sangshod tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305",Channel-1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",NEWS 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon tv
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN NEWS [BD]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Banglavision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png",SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png",BOISHAKHI TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",GAZI TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg",Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",Mohona Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Green tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png",Asian TV
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",G-Serise
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",Movie Bangla TV
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg",Rajdhani tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Deshi tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",EP tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Ruposhi Bangla tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Music Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Desh Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png",Sony YAY
+https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",BuddyStar HD
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",Kids Stars
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350",Star Jalsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350",Star Jalsha SD
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg",Zee Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Zee_Bangla_Cinema.jpeg/200px-Zee_Bangla_Cinema.jpeg",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png",Sony Aath
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg",Zee Cinema
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",SONY MAX HD
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",SONY MAX SD
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony TV
+http://103.161.153.165:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony TV HD
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg",Sony Sab
+http://103.161.153.165:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",Star Plus
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV
+http://103.161.153.165:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",Zee TV HD
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg",Sony Pix
+https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",Star Sports-1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png",Star Jalsha HD (720p)
+https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",Zee Bangla HD (720p)
+http://217.20.112.199:8080/maamovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",Sony Sports Ten 2 HD
+http://103.229.254.25:7001/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",Sony Sports Ten 2
+http://202.70.146.135:8000/play/a06n/27495269.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png",Sony Sports Ten 3 HD
+http://103.99.249.139/sonyten3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",MIXER | Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",[BD] Sony Ten Sports 2 HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",[BD] Sony Ten Sports 1 HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",[BD] Sony Ten Sports 5 HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",[BD] Sony Ten Cricket
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",[BD] Sony MAX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",[BD] Sony MAX
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",[BD] Sony PIX HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",[BD] Zee Cafe
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",[BD] Sony MAX 2
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",[BD] Zee Bangla Cinema
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png",w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png",[BD] Zee Cinema HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png",w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png",[BD] Zee Bollywood
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png",w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png",[BD] Zee Action
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",[BD] Zee Bangla
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",[BD] Sony Aath
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png",w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png",[BD] Zee Anmol
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",[BD] Sony Entertainment Television HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",[BD] Sony SAB HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png",w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png",[BD] Zee TV HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",[BD] Sony Entertainment Television
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",[BD] Sony BBC Earth HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png",Aljazeera HD Backup 🛜v
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg",Sony Aath
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mAathStar%20Jalsha.png",Star Jalsha
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png",Star Jalsha HD
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla HD
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png",Sony Max
+http://103.161.153.165:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg",Sony Max 2 HD
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png",Zee Cinema HD
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",Zee Action
+http://103.161.153.165:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Zee Anmol Cinema
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png",Star Gold HD
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies HD
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png",Star Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg",Sony BBC Earth HD
+http://103.175.73.12:8080/live/255/255_0.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Zee Zast HD
+http://103.175.73.12:8080/live/326/326_0.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Zee Zast
+http://103.175.73.12:8080/live/327/327_0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",SONY AATH HD
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg",NEWS | ZEE BUSINESS
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max-hd.png",Sony MAX HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png",Sony Yay Bangla
+https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-movies.png",Star Movies
+http://198.195.239.50:8095/starMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-gold.png",Star Gold
+http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-plus.png",Star Plus
+http://book4u.top/royr/index.php?id=StarPlusIN
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cinema-hd-veqq3heoalzv.png",Zee Cinema HD
+https://book4u.top/worker/index.php?path=api/63785f090e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/al-jazeera.png",AL Jazeera
+https://buy.ottbangla.com/4k/iscr/stream.m3u8?id=al-jazeera
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png",Sony BBC Earth HD
+https://book4u.top/worker/index.php?path=api/3e9d231a84/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab-hd.png",Sony SAB
+https://book4u.top/worker/index.php?path=api/f10c3b5c0e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png",Star Jalsha HD
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png",Zee Bangla Cinema
+https://book4u.top/worker/index.php?path=api/c6a422650e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-aath.png",Sony aath
+https://book4u.top/worker/index.php?path=api/fdf6e4d104/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-hd.png",Zee Bangla HD
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/zee_bangla
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png",Sony Sports Ten 5
+https://book4u.top/worker/index.php?path=api/d74ec2f219/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-2.png",Sony Sports Ten 2
+https://book4u.top/worker/index.php?path=api/45dc1e0f41/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link",Sony Sports Ten 1
+https://book4u.top/worker/index.php?path=api/762cf859a8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-2-hd.png",Star Sports 2 HD
+https://book4u.top/xyz/player.m3u8?id=edge2/star-sports-2
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png",Star Sports 1 HD
+https://book4u.top/xyz/player.m3u8?id=edge2/star-sports-1
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png",Star Sport Select 2
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarSportsSelect2
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png",Star Sport Select 1
+https://cdn.dlhub4u.top/vids/hoi/stream.m3u8?id=StarSportsSelect1
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pix-hd.png",Sony PIX HD
+https://book4u.top/worker/index.php?path=api/0d6787eb3a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-marathi.png",Sony Marathi
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009259
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-action.png",Zee Action
+https://book4u.top/worker/index.php?path=api/f3311c7bbe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bollywood.jpg",Zee Bollywood
+https://book4u.top/worker/index.php?path=api/3547925ef0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png",Sony MAX2
+https://book4u.top/worker/index.php?path=api/a5d2c9a383/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png",Sony MAX
+https://book4u.top/worker/index.php?path=api/9bcb965282/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-wah.png",Sony Wah
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009253
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-cafe-hd.png",Zee Cafe HD
+https://book4u.top/worker/index.php?path=api/f914787389/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png",Zee Anmol
+https://book4u.top/worker/index.php?path=api/cf342d11fc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-pal.png",Sony Pal
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009273
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png",Sony HD (SET HD)
+https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sab.png",Sony SAB HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009248
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png",Zee TV HD
+https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png",SONY YAY VIP
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Star%20News.jpg",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png",Zee Bangla Cinema
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Sony Pal
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Z_Bharat_English.jpg",NEWS | Zee Hindustan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",NEWS | ZEE News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png",Al Jazeera English HD
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kUMHHbNTBTvB7twXTibDlwPWE9F.jpg",Village Rockstars (2018)
+http://cinehub24.com/ftp/Movies/indianbangla/2000-2020/Village%20Rockstars%20%282018%29/Village%20Rockstars%20%282018%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yBQSXznp7nA6YNDqtpnPPJwivds.jpg",Gangstar King (2016)
+http://cinehub24.com/ftp/Movies/indianbangla/2000-2020/Gangstar%20King%20%282016%29/Gangstar%20King%20%282016%29.mkv
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Bangla/2016/Goyen%20Da%20%20Zee%20Bangla%20Cinema/poster.jpg",Goyen Da Zee Bangla Cinema (2016)
+http://cds1.discoveryftp.net/Movies/Bangla/2016/Goyen%20Da%20%20Zee%20Bangla%20Cinema/Goyen%20Da%20-%20Zee%20Bangla%20Cinema%20%282016%29%20-%20DTH%20Rip.mkv?md5=g0h35gAEaybXVa7u9yGmpA&expires=1777845216
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM2OTE5ZmEtY2UwNS00OGMzLWJjNGUtNzg2M2NiZjYwMmM2XkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_SX300.jpg",Hero The Superstar (2014)
+http://cinehub24.com/ftp/Movies/indianbangla/2000-2020/Hero%20The%20Superstar%20%282014%29/Hero%20The%20Superstar%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",Star Wars The Mandalorian and Grogu (2026) 🆕
+http://ftp.ctgfun.com/English/Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20Hindi%20English%20720p%20HDRip%20x264%20ESub%20%5BDDN%5D/Star%20Wars%20The%20Mandalorian%20and%20Grogu%20%282026%29%20Hindi%20English%20720p%20HDRip%20x264%20ESub%20%5BDDN%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",Starbright (2026)
+http://cinehub24.com/ftp/Movies/hollywood/2026/Starbright%20%282026%29/Starbright.2026.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9CSTzX1pUrNLD7lsJ8h9hRFJtLQ.jpg",Rockstar Duki Desde El Fin Del Mundo (2025)
+http://103.225.94.27/Infobase/hdd-3/english/Rockstar%20Duki%20Desde%20El%20Fin%20Del%20Mundo%20(2025)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fNu6P4jYU55Cb3CC2SndtAKvois.jpg",Star Trek Section 31 (2025)
+http://cinehub24.com/ftp/Movies/hollywood/2025/Star%20Trek%20Section%2031%20%282025%29/Star.Trek.Section.31.2025.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6g0li87w8LIK77QRUtOkQkM6bD7.jpg",American Star (2024)
+http://cinehub24.com/ftp/Movies/hollywood/2024/American%20Star%20%282024%29/American.Star.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zaitgMJFTL6NRQiFGCrbNCHCpEI.jpg",Chasing Stars (2024)
+http://103.225.94.27/Infobase/hdd-3/english/Chasing%20Stars%20(2024)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kiRbFwEU5gfmysWHPOTVTNZuwBT.jpg",The Star City Murders (2024)
+http://103.225.94.27/Infobase/hdd-3/english/The%20Star%20City%20Murders%20(2024)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zbc3RXxxlEHgBd5zVeKDpajxEEM.jpg",TikTok Star Murders (2024)
+http://cinehub24.com/ftp/Movies/hollywood/2024/TikTok%20Star%20Murders%20%282024%29/TikTok.Star.Murders.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2023/Shooting%20Stars/poster.jpg?md5=f4XVgDI7fbCbA2D_HUQiPw&expires=1777844414",Shooting Stars (2023)
+https://cds4.discoveryftp.net/Movies/English/2023/Shooting%20Stars/Shooting.Stars.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?md5=3CQr891KvAjsRZI_dS87RA&expires=1777844414
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2023/The%20Starling%20Girl/poster.jpg?md5=NqfHWTqV-ZxZXt8_Jw0feA&expires=1777844419",The Starling Girl (2023)
+https://cds4.discoveryftp.net/Movies/English/2023/The%20Starling%20Girl/The.Starling.Girl.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv?md5=c3pg2zc2cbM3LbMubooYOA&expires=1777844419
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg",Firestarter (2022)
+http://103.225.94.27/Infobase/hdd-1/English/Firestarter%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ZNvOWYrnqz27TfS0USHNwlPp99.jpg",Hollywood Stargirl (2022)
+http://cinehub24.com/ftp/Movies/hollywood/2022/Hollywood%20Stargirl%20%282022%29/Hollywood.Stargirl.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xHTGLYpZKfwGJ0lM2NEAmb6DdYi.jpg",Lighting Up The Stars (2022)
+http://cinehub24.com/ftp/Movies/hollywood/2022/Lighting%20Up%20The%20Stars%20%282022%29/Lighting.Up.The.Stars.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2022/Love%20Amongst%20The%20Stars/poster.jpg?md5=A2avXslwVJUr-IMaEbGInA&expires=1777844443",Love Amongst The Stars (2022)
+https://cds4.discoveryftp.net/Movies/English/2022/Love%20Amongst%20The%20Stars/Love.Amongst.The.Stars.2022.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4?md5=hBcpAIozL-94YNfBT6f_vA&expires=1777844443
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2022/Mommys%20Little%20Star/poster.jpg?md5=W2PoRvjcRaav0wY6wS84tQ&expires=1777844446",Mommys Little Star (2022)
+https://cds4.discoveryftp.net/Movies/English/2022/Mommys%20Little%20Star/Mommys.Little.Star.2022.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4?md5=cVhC2UekwZ4ZYXJ9nd_s4A&expires=1777844446
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1TWK15jLsA76HC9gJ8IVEr6bOsq.jpg",Night Of The Bastard (2022)
+http://cinehub24.com/ftp/Movies/hollywood/2023/Night%20Of%20The%20Bastard%20%282022%29/Night.Of.The.Bastard.2022.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2022/Silverstar/poster.jpg?md5=l2he13KUIvou3YovttW10Q&expires=1777844453",Silverstar (2022)
+https://cds4.discoveryftp.net/Movies/English/2022/Silverstar/Silverstar.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?md5=H6HpsI19ZqGwl_ntO4c3aw&expires=1777844453
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2022/Space%20Wars%20Quest%20For%20The%20Deepstar/poster.jpg?md5=oPYhOykZXG_aL_o5z1bo7A&expires=1777844455",Space Wars Quest For The Deepstar (2022)
+https://cds4.discoveryftp.net/Movies/English/2022/Space%20Wars%20Quest%20For%20The%20Deepstar/Space.Wars.Quest.For.The.Deepstar.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?md5=Pq8dH042WguLIvw3RNsQ6A&expires=1777844455
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2022/Star-Crossed%20Romance/poster.jpg?md5=1O30VE27S24ELHdgJ-qHsg&expires=1777844454",Star-Crossed Romance (2022)
+https://cds4.discoveryftp.net/Movies/English/2022/Star-Crossed%20Romance/Star-Crossed.Romance.2022.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4?md5=m915pcPjFBzPrrKEpwcU3w&expires=1777844454
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2022/Starfuckers/poster.jpg?md5=7rl7FSta13gOgbMPoIVlhw&expires=1777844454",Starfuckers (2022)
+https://cds4.discoveryftp.net/Movies/English/2022/Starfuckers/Starfuckers.2022.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4?md5=dE04PuwLiYor3mCBzMZ50Q&expires=1777844454
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/viR50oQCs8ObciADFGWHUyChexZ.jpg",Stars at Noon (2022)
+http://103.225.94.27/Infobase/hdd-1/English/Stars%20at%20Noon%20(2022)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vXIqSUpO84PMNt9JclXzCbPBslT.jpg",A Cinderella Story Starstruck (2021)
+http://cinehub24.com/ftp/Movies/hollywood/2021/A%20Cinderella%20Story%20Starstruck%20%282021%29/A.Cinderella.Story.Starstruck.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2021/Barb%20and%20Star%20Go%20to%20Vista%20Del%20Ma/poster.jpg?md5=jQu_MLhbq6OMp2MOhlA92g&expires=1777844371",Barb and Star Go to Vista Del Ma (2021)
+https://cds4.discoveryftp.net/Movies/English/2021/Barb%20and%20Star%20Go%20to%20Vista%20Del%20Ma/barb.and.star.go.to.vista.del.mar.2021.1080p.web.h264-naisu.mkv?md5=7QLWRH6S3LjA5G-5lq7azg&expires=1777844371
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2021/Barb%20and%20Star%20Go%20to%20Vista%20Del%20Mar/poster.jpg?md5=2c1Z7TBXz66uBmUtJj1imw&expires=1777844373",Barb and Star Go to Vista Del Mar (2021)
+https://cds4.discoveryftp.net/Movies/English/2021/Barb%20and%20Star%20Go%20to%20Vista%20Del%20Mar/Barb.and.Star.Go.to.Vista.Del.Mar.2021.2160p.WEB-DL.DD%2B5.1.HDR.H.265-NAISU.mkv?md5=qwxn7UAr6tkVRLpXycmFiA&expires=1777844373
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7F3nAP5dPWPuZfkz1Rv67Y3NHeO.jpg",Bastards Crossing (2021)
+http://cinehub24.com/ftp/Movies/hollywood/2021/Bastards%20Crossing%20%282021%29/Bastards.Crossing.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2021/How%20to%20Start%20a%20Small%20Business/poster.jpg?md5=TUZNI4_6rCUofNDUDcx-Sw&expires=1777844382",How to Start a Small Business (2021)
+https://cds4.discoveryftp.net/Movies/English/2021/How%20to%20Start%20a%20Small%20Business/How.to.Start.a.Small.Business.2021.1080p.WEBRip.x264-RARBG.mp4?md5=dvvZAR4oehp3qZ-MO5K4pw&expires=1777844382
+#EXTINF:-1 tvg-logo="https://cds4.discoveryftp.net/Movies/English/2021/Lego%20Star%20Wars%20Terrifying%20Tales/poster.jpg?md5=0Q1_nB9VMD8eJur40cxHZA&expires=1777844384",Lego Star Wars Terrifying Tales (2021)
+https://cds4.discoveryftp.net/Movies/English/2021/Lego%20Star%20Wars%20Terrifying%20Tales/Lego.Star.Wars.Terrifying.Tales.2021.2160p.4K.WEB.x265.10bit.HDR.AAC5.1-%5BYTS.MX%5D.mkv?md5=21P8Ojpb65ZmELW03HWRSw&expires=1777844384
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kVtI8KixtLJ8rXkvE7WWOTD0KAJ.jpg",Night of the Falling Stars (2021)
+http://103.225.94.27/Infobase/hdd-1/English/Night%20of%20the%20Falling%20Stars%20(2021)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4qkDuumUuGi5zl8Cqkc0aXYWr3E.jpg",Star Wars Biomes (2021)
+http://cinehub24.com/ftp/Movies/hollywood/2021/Star%20Wars%20Biomes%20%282021%29/Star.Wars.Biomes.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/72IPGDomQ7wfINVvZC1Pmx6wVga.jpg",Star-Crossed The Film (2021)
+http://cinehub24.com/ftp/Movies/hollywood/2021/Star-Crossed%20The%20Film%20%282021%29/Star-Crossed.The.Film.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aGMa5XCyUFFWaIlKZoQvW6gCwGp.jpg",Stars Fell On Alabama (2021)
+http://cinehub24.com/ftp/Movies/hollywood/2021/Stars%20Fell%20On%20Alabama%20%282021%29/Stars.Fell.On.Alabama.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dXlUIfwejWa9YvugU9V773dUASY.jpg",The Starling (2021)
+http://cinehub24.com/ftp/Movies/hollywood/2021/The%20Starling%20%282021%29/The.Starling.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/umb913Jp2QV6KmFHyXh4zLWortO.jpg",The Starter Marriage (2021)
+http://cinehub24.com/ftp/Movies/hollywood/2021/The%20Starter%20Marriage%20%282021%29/The.Starter.Marriage.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ntgKdekb7xMKscyh2Hei706LBLf.jpg",Battle Star Wars (2020)
+http://cinehub24.com/ftp/Movies/hollywood/2020/Battle%20Star%20Wars%20%282020%29/Battle.Star.Wars.2020.720p.WEBRip.x264.AAC-%5BYTS.LT%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cJOPoCwRvL4JioVEHZEknp1qnUx.jpg",Star Light (2020)
+http://cinehub24.com/ftp/Movies/hollywood/2020/Star%20Light%20%282020%29/Star.Light.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gwsrtzSrr7G6xjxsa7IwaAMHpEF.jpg",Stargirl (2020)
+http://cinehub24.com/ftp/Movies/hollywood/2020/Stargirl%20%282020%29/Stargirl.2020.720p.DSNP.WEBRip.800MB.x264-GalaxyRG.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hjhgxXjHBWEhgbjAD07fzp8hB4d.jpg",The Author The Star And The Keeper (2020)
+http://cinehub24.com/ftp/Movies/hollywood/2020/The%20Author%20The%20Star%20And%20The%20Keeper%20%282020%29/The.Author.The.Star.And.The.Keeper.2020.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aM0Ksnnuc7NtRibMUhXGmAYAMrx.jpg",StarDog And TurboCat (2019)
+http://cinehub24.com/ftp/Movies/animation/2011-2020/StarDog%20and%20TurboCat%20%282019%29/Stardog.and.Turbocat.2019.1080p.WEBRip.x264-RARBG.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y8x7yBCn6107pATWNVUjrnpwozM.jpg",Starting Up Love (2019)
+http://cinehub24.com/ftp/Movies/hollywood/2020/Starting%20Up%20Love%20%282019%29/Starting.Up.Love.2019.WEBRip.x264-%5BBabyTorrent%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dGl7ZnnL3WoiCKQAQdgkEF0EAbj.jpg",The Sun Is Also A Star (2019)
+http://cinehub24.com/ftp/Movies/hollywood/2019/The%20Sun%20Is%20Also%20a%20Star%20%282019%29/The%20Sun%20Is%20Also%20a%20Star%202019%20720p%20HDCAM-1XBET.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",A Star Is Born (2018)
+http://cinehub24.com/ftp/Movies/hollywood/2018/A%20Star%20Is%20Born%20%282018%29/A%20Star%20Is%20Born%20%282018%29%20%5BBluRay%5D%20%5B1080p%5D%20%5BCiTYCloud%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sQy8PWee6kn7pabM16fzQGs7TX4.jpg",Holly Star (2018)
+http://cinehub24.com/ftp/Movies/hollywood/2018/Holly%20Star%20%282018%29/Holly%20Star%20%282018%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yMiksvlWCdUFpX9ZVrU2SyJF7ZC.jpg",Jesus Christ Superstar Live In Concert (2018)
+http://cinehub24.com/ftp/Movies/hollywood/2018/Jesus%20Christ%20Superstar%20Live%20in%20Concert%20%282018%29/Jesus%20Christ%20Superstar%20Live%20in%20Concert%20%282018%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dnZT9hXkvhPORHrkdK6RyjLlBC0.jpg",Pup Star World Tour (2018)
+http://cinehub24.com/ftp/Movies/hollywood/2018/Pup%20Star%20World%20Tour%20%282018%29/Pup%20Star%20World%20Tour%20%282018%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",Solo A Star Wars Story (2018)
+http://cinehub24.com/ftp/Movies/hollywood/2018/Solo%20A%20Star%20Wars%20Story%20%282018%29/Solo%20A%20Star%20Wars%20Story%20%282018%29.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMTc3NjAwNF5BMl5BanBnXkFtZTgwNTU1ODIyNjM@._V1_SX300.jpg",Star Wars Resistance (2018)
+http://cinehub24.com/ftp/Movies/animation/2011-2020/Star%20Wars%20Resistance%20%282018%29/Star%20Wars%20Resistance%202018.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cC0rJXEx1YNH0tEtvuiOOq3vF37.jpg",Fallen Stars (2017)
+http://cinehub24.com/ftp/Movies/hollywood/2017/Fallen%20Stars%20%282017%29/Fallen.Stars.2017__720p.WEBrip__E-BOX.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/87oy4bxwkhmb4Jb3MRvosvd9NOX.jpg",Film Stars Don't Die In Liverpool (2017)
+http://cinehub24.com/ftp/Movies/hollywood/2017/Film%20Stars%20Don%27t%20Die%20in%20Liverpool%20%282017%29/Film.Stars.Don%27t.Die.in.Liverpool.2017.720p.WEB-HD_BDPLEX.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vtfYt7vi0cdzRCD7iUMTg3PPSoi.jpg",Just Getting Started (2017)
+http://cinehub24.com/ftp/Movies/hollywood/2017/Just%20Getting%20Started%20%282017%29/Just.Getting.Started.2017.1080p.BRRip_BDPLEX.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fkTeziNtc0uwE899uI1hlMOEdZL.jpg",Secret Superstar (2017)
+http://cinehub24.com/ftp/Movies/hollywood/2017/Secret%20Superstar%20%282017%29/Secret%20Superstar%20%282017%29%20Untouched%20720p%20Desi%20Screener%20-%20DTOne%20Exclusive.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",Star Wars The Last Jedi (2017)
+http://cinehub24.com/ftp/Movies/hollywood/2017/Star%20Wars%20The%20Last%20Jedi%20%282017%29/Star%20Wars%20The%20Last%20Jedi%20%282017%29.MP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg",Starship Troopers Traitor Of Mars (2017)
+http://cinehub24.com/ftp/Movies/hollywood/2017/Starship%20Troopers%20Traitor%20Of%20Mars%20%282017%29/Starship%20Troopers%20Traitor%20Of%20Mars%20%282017%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/15Qhcj5lZsJDKS4p98jMX2plgjs.jpg",The Heyday Of The Insensitive Bastards (2017)
+http://cinehub24.com/ftp/Movies/hollywood/2017/The%20Heyday%20of%20the%20Insensitive%20Bastards%20%282017%29/The.Heyday.of.the.Insensitive.Bastards.2017__720p.WEBrip__E-BOX.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tEbDvivUfsCupngKIfMJJ725eAD.jpg",The Star (2017)
+http://cinehub24.com/ftp/Movies/animation/2011-2020/The%20Star%20%282017%29/The%20Star%202017.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Yq33EXs9YpgrwGXJlJL73OTpt1.jpg",Barbie Star Light Adventure (2016)
+http://cinehub24.com/ftp/Movies/hollywood/2016/Barbie%20Star%20Light%20Adventure%20%282016%29/Barbie%20Star%20Light%20Adventure%20%282016%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l81ArRwCIyXM0cDtCcprOGrfnaR.jpg",Bright Lights Starring Carrie Fisher And Debbie Reynolds (2016)
+http://cinehub24.com/ftp/Movies/hollywood/2016/Bright%20Lights%20Starring%20Carrie%20Fisher%20And%20Debbie%20Reynolds%20%282016%29/Bright.Lights.Starring.Carrie.Fisher.And.Debbie.Reynolds.2016.720p.WEB-DL.x264.AAC_BDPLEX.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jBZeZZNjYBUU21zFvBnin5n62bv.jpg",Popstar Never Stop Never Stopping (2016)
+http://cinehub24.com/ftp/Movies/hollywood/2016/Popstar%20Never%20Stop%20Never%20Stopping%20%282016%29/Popstar%20Never%20Stop%20Never%20Stopping%20%282016%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m7SHlvcGfCkbzk2xP7XHDOI6o93.jpg",Star Trek Beyond (2016)
+http://cinehub24.com/ftp/Movies/hollywood/2016/Star%20Trek%20Beyond%20%282016%29/Star.Trek.Beyond.2016__1080p.BRrip__BDPLEX.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7kAIcir1cPzxLGAVE0Ib1lu1HY5.jpg",The Last Starship (2016)
+http://cinehub24.com/ftp/Movies/hollywood/2016/The%20Last%20Starship%20%282016%29/The%20Last%20Starship%20%282016%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/warDrteGsHOCkNbNKuUJpZ8VUDa.jpg",Bastard (2015)
+http://cinehub24.com/ftp/Movies/hollywood/2015/Bastard%20%282015%29/Bastard%20%282015%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ymDJQsmDSgQ4IGZAxW4aR0WpVAr.jpg",Bloodsucking Bastards (2015)
+http://cinehub24.com/ftp/Movies/hollywood/2015/Bloodsucking%20Bastards%20%282015%29/Bloodsucking%20Bastards%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r4cYfCe776WXa0S8ZRsCZWNq9qW.jpg",Star Leaf (2015)
+http://cinehub24.com/ftp/Movies/hollywood/2015/Star%20Leaf%20%282015%29/Star%20Leaf%20%282015%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",Star Wars Episode VII The Force Awakens (2015)
+http://cinehub24.com/ftp/Movies/hollywood/2015/Star%20Wars%20Episode%20VII%20-%20The%20Force%20Awakens%20%282015%29/Star%20Wars%20Episode%20VII%20-%20The%20Force%20Awakens%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/80HROIUuyh5om2VIRVDNDcqKVcA.jpg",Starship Apocalypse (2015)
+http://cinehub24.com/ftp/Movies/hollywood/2015/Starship%20Apocalypse%20%282015%29/Starship%20Apocalypse%20%282015%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aoMNfiaMmT7o7wY8oXWCLErZtah.jpg",Maps To The Stars (2014)
+http://cinehub24.com/ftp/Movies/hollywood/2014/Maps%20to%20the%20Stars%20%282014%29/Maps%20to%20the%20Stars%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g4fKHifPZHUydrrySxhtyOvhy5L.jpg",Set Fire To The Stars (2014)
+http://cinehub24.com/ftp/Movies/hollywood/2014/Set%20Fire%20to%20the%20Stars%20%282014%29/Set%20Fire%20to%20the%20Stars%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mRR2eR5V75jVUXVs65v8BYNswkp.jpg",Starship Rising (2014)
+http://cinehub24.com/ftp/Movies/hollywood/2014/Starship%20Rising%20%282014%29/Starship%20Rising%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kcVuktIlrn9SAN1uBmPDnocTQmF.jpg",The Fault In Our Stars (2014)
+http://cinehub24.com/ftp/Movies/hollywood/2014/The%20Fault%20in%20Our%20Stars%20%282014%29/The%20Fault%20in%20Our%20Stars%20%282014%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xixc6DCCw6is7vPpqJNQyZEzcQd.jpg",Pop Star (2013)
+http://cinehub24.com/ftp/Movies/hollywood/2013/Pop%20Star%20%282013%29/Pop%20Star%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",Star Trek Into Darkness (2013)
+http://cinehub24.com/ftp/Movies/hollywood/2013/Star%20Trek%20Into%20Darkness%20%282013%29/Star%20Trek%20Into%20Darkness%20%282013%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e1DRGfyRxYQclvJOJiXwAw5gDg2.jpg",Starred Up (2013)
+http://cinehub24.com/ftp/Movies/hollywood/2013/Starred%20Up%20%282013%29/Starred%20Up%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oHTNil93kpVQ6TOE4pzypgxPKLb.jpg",The Starving Games (2013)
+http://cinehub24.com/ftp/Movies/hollywood/2013/The%20Starving%20Games%20%282013%29/The%20Starving%20Games%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xJJY16XSazUgDvbWEXQ1ulLiz8q.jpg",Starship Troopers Invasion (2012)
+http://cinehub24.com/ftp/Movies/animation/2011-2020/Starship%20Troopers%20Invasion%20%282012%29/Starship%20Troopers%20Invasion%20%282012%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/30GAgK0SvrRoopHlEcrchXqD0hf.jpg",All-Star Superman (2011)
+http://cinehub24.com/ftp/Movies/hollywood/2011/All-Star%20Superman%20%282011%29/All-Star%20Superman%202011.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t7ZyIR941krELzP7POiFUu0yhFq.jpg",Starbuck (2011)
+http://cinehub24.com/ftp/Movies/hollywood/2011/Starbuck%20%282011%29/Starbuck%20%282011%29.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fsFQqw9reYOnznWdHDYLUxe10k3.jpg",Star Vehicle (2010)
+http://cinehub24.com/ftp/Movies/hollywood/2010/Star%20Vehicle%20%282010%29%20720p/Star%20Vehicle%20%282010%29%20720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2ER0kGpD2zGGGZgH9b7kMAWghKl.jpg",Third Star (2010)
+http://cinehub24.com/ftp/Movies/hollywood/2010/Third%20Star%20%282010%29%20%5BBluRay%5D%20%5B1080p%5D%20%5BYTS.AM%5D/Third.Star.2010.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",Inglourious Bastards (2009)
+http://cinehub24.com/ftp/Movies/hollywood/2009/Inglourious%20Bastards%20%282009%29/Inglourious%20Bastards.2009.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg",Star Trek (2009)
+http://cinehub24.com/ftp/Movies/hollywood/2009/Star%20Trek%20%282009%29/Star.Trek.2009.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5boJKypPQmgABssbKOk2RvsCnSv.jpg",The Men Who Stare At Goats (2009)
+http://cinehub24.com/ftp/Movies/hollywood/2009/The%20Men%20Who%20Stare%20at%20Goats%20%282009%29%20%5B1080p%5D/The.Men.Who.Stare.at.Goats.2009.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1rQUvblJHU8766FatqTtCMiRhph.jpg",Stargate Continuum (2008)
+http://cinehub24.com/ftp/Movies/hollywood/2008/Stargate%20Continuum%20%282008%29/Stargate%20Continuum%20%282008%29%20%5B1080p%5D%20BluRay.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kIqsCdZBmKYuPwaDnrFYzK1gqlM.jpg",Stargate The Ark Of Truth (2008)
+http://cinehub24.com/ftp/Movies/hollywood/2008/Stargate%20The%20Ark%20Of%20Truth%20%282008%29/Stargate%20The%20Ark%20Of%20Truth%20%282008%29%20%5B1080p%5D%20BluRay.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ykswGEkVWYDMVFMuG1lANyPG54s.jpg",Telstar The Joe Meek Story (2008)
+http://cinehub24.com/ftp/Movies/hollywood/2008/Telstar%20The%20Joe%20Meek%20Story%20%282008%29/Telstar%20The%20Joe%20Meek%20Story%20%282008%29%20%5B1080p%5D%20BluRay.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7zbFmxy3DqKYL2M8Hop6uylp2Uy.jpg",Stardust (2007)
+http://cinehub24.com/ftp/Movies/hollywood/2021/Stardust%20%282007%29/Stardust.2007.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uNE1XVm9G1O4Xw4DpyPsHzXCUSz.jpg",Zero Se Restart (2024) 🆕
+http://ftp.ctgfun.com/Indian/Hindi%20Movies/Zero%20Se%20Restart%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Zero%20Se%20Restart%20%282024%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fb5ao0wON2Dq3atOy3rikyL8IsP.jpg",Lucky The Superstar (2026)
+http://cinehub24.com/ftp/Movies/bollywood/2026/Lucky%20the%20Superstar%20%282026%29/Lucky%20the%20Superstar.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/N6yYSmGHnT38plOCaadlVcQH02.jpg",Bastar The Naxal Story (2024)
+http://cinehub24.com/ftp/Movies/bollywood/2024/Bastar%20The%20Naxal%20Story%20%282024%29/Bastar%20The%20Naxal%20Story.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ellZ2dQLPVeWgd2fjf4arcZwALc.jpg",Starfish (2023)
+http://cinehub24.com/ftp/Movies/bollywood/2024/Starfish%20%282023%29/Starfish%20%282023%29%20Hindi%20720p%20WEBRip%20x264%20AAC%20ESub.mp4
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2019/Superstar/poster.jpg",Superstar (2019)
+http://cds1.discoveryftp.net/Movies/Hindi/2019/Superstar/Superstar%20%282019%29%201080p%20HDTv%20-%20x264%20-%20AAC.mkv?md5=Qp8xDJ5ZVvOOtO7vcd3dyA&expires=1777845258
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pBt3CbqUra6Z6wBUBhAF908FSMu.jpg",Upstarts (2019)
+http://cinehub24.com/ftp/Movies/bollywood/2019/Upstarts%20%282019%29/Upstarts%20%282019%29%20Hindi%20720p%20HDRip%20x264%20AAC%20MSubs%20-%20Downloadhub.mkv
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2017/The%20Slum%20Stars/poster.jpg",The Slum Stars (2017)
+http://cds1.discoveryftp.net/Movies/Hindi/2017/The%20Slum%20Stars/The%20Slum%20Stars%20%282017%29%20Hindi%20720p%20HDTV%20x264%20AAC%20-%20MovCr.mkv?md5=xbpWjBIcsRXOiYtJjOP3Vw&expires=1777845268
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ounPVh0WuskJE0Doy4txd4wEXQ7.jpg",Chatur Singh Two Star (2011)
+http://cinehub24.com/ftp/Movies/bollywood/2000-2014/Chatur%20Singh%20Two%20Star%20%282011%29/Chatur%20Singh%20Two%20Star%202011%20Hindi%20HDRip%20x264%20AC3...Hon3y.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cJZC9riwrdATBUonkZJZD6y9g40.jpg",Rockstar (2011)
+http://cinehub24.com/ftp/Movies/bollywood/2000-2014/Rockstar%20%282011%29/Rockstar%282011%29.Brrip.720p.x264.aac.Maxen.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2mLyHeWwU0Ocv9Jvk72IDqZqT7G.jpg",Family Star (2024)
+http://cinehub24.com/ftp/Movies/hindidub/Family%20Star%20%282024%29/Family%20Star%20%282024%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2mLyHeWwU0Ocv9Jvk72IDqZqT7G.jpg",The Family Star (2024)
+http://cinehub24.com/ftp/Movies/hindidub/The%20Family%20Star%20%282024%29/The%20Family%20Star.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/S9U0axheNakD9LQusEpFijDgSe.jpg",The End We Start From (2023)
+http://cinehub24.com/ftp/Movies/hindidub/The%20End%20We%20Start%20From%20%282023%29/The%20End%20We%20Start%20From.mp4
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Others/2021/Restart%20the%20Earth/poster.jpg",Restart the Earth (2021)
+http://cds1.discoveryftp.net/Movies/Others/2021/Restart%20the%20Earth/Restart%20the%20Earth%20%282021%29%201080p%20WEB-DL%20x264%20HC%20Subs%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Chinese%202.0%5D.mkv?md5=e5sCI0ZN7ocmzktGxOc7tQ&expires=1777845437
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Others/2021/Star/poster.jpg",Star (2021)
+http://cds1.discoveryftp.net/Movies/Others/2021/Star/STAR%20%282021%29%20Malayalam%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20%28DD%2B5.1%20-%20640Kbps%20%26%20AAC%29%20-%202.1GB%20-%20ESub.mkv?md5=jryBl57I5KxobjtaVsGscg&expires=1777845438
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Others/2020/Stars%20And%20Strife/poster.jpg",Stars And Strife (2020)
+http://cds1.discoveryftp.net/Movies/Others/2020/Stars%20And%20Strife/Stars.And.Strife.2020.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4?md5=v4ezAt-A8ygqFAfedcm5IQ&expires=1777845407
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Others/2017/Hare%20Krishna%20The%20Mantra%20the%20Movement%20and%20the%20Swami%20Who%20Started%20It/poster.jpg",Hare Krishna The Mantra the Movement and the Swami Who Started It (2017)
+http://cds1.discoveryftp.net/Movies/Others/2017/Hare%20Krishna%20The%20Mantra%20the%20Movement%20and%20the%20Swami%20Who%20Started%20It/Hare.Krishna.the.Mantra.The.Movement.and.the.Swami.Who.Started.It.All.2017.1080p.WEBRip.x264-RARBG.mp4?md5=co0wWTvElopmBXWbg3-PZA&expires=1777845442
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBxHyJizlJs1MVzZrRVG4PN9XJ7.jpg",Stars 80 La Suite (2017)
+http://cinehub24.com/ftp/Movies/french/Stars%2080%20La%20Suite%20%282017%29/Stars.80.La.Suite.2017.FRENCH.BDRip.XviD-FuN.mp4
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Others/2014/Dark%20Star%20HR%20Gigers%20Welt/poster.jpg",Dark Star HR Gigers Welt (2014)
+http://cds1.discoveryftp.net/Movies/Others/2014/Dark%20Star%20HR%20Gigers%20Welt/Dark.Star.HR.Gigers.Welt.2014.GERMAN.1080p.AMZN.WEBRip.DDP2.0.x264-MRCS.mkv?md5=JAJp88He_IajlRgM-r-itA&expires=1777845451
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Others/2003/Star%20Runner/poster.jpg",Star Runner (2003)
+http://cds1.discoveryftp.net/Movies/Others/2003/Star%20Runner/Star.Runners.2003.TVRip.XviD-AMiGOS.avi?md5=fDG-FDjfJvdfZqMJP0_p9Q&expires=1777845479
+#EXTINF:-1 tvg-logo="https://cds1.discoveryftp.net/Movies/Others/2000/My%20Lucky%20Stars/poster.jpg",My Lucky Stars (2000)
+http://cds1.discoveryftp.net/Movies/Others/2000/My%20Lucky%20Stars/My%20Lucky%20Stars%20%281985%29%20720p%20BluRay.mkv?md5=Il7AhqawAgrojbaYZ-67VA&expires=1777845487
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-AATH.png",SONY AATH [BENGALI]
+http://xown.site/token/stream.php?id=1487905&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-JALSHA.png",STAR JALSHA HD [BENGALI]
+http://xown.site/token/stream.php?id=1487893&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-JALSHA-MOVIES.png",STAR JALSHA MOVIES HD [BENGALI]
+http://xown.site/token/stream.php?id=1487891&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-JALSHA-MOVIES.png",STAR JALSHA MOVIES [BENGALI]
+http://xown.site/token/stream.php?id=1487892&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-JALSHA.png",STAR JALSHA [BENGALI]
+http://xown.site/token/stream.php?id=1487894&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/zeetv.png",ZEE HD [BENGALI]
+http://xown.site/token/stream.php?id=1487887&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TV.png",ZEE FHD [BENGALI]
+http://xown.site/token/stream.php?id=1539402&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/zeecinema.png",ZEE CINEMA [BENGALI]
+http://xown.site/token/stream.php?id=1487888&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-24-GHANTA.png",ZEE 24 GHANTA TV [BENGALI]
+http://xown.site/token/stream.php?id=1539401&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-YAY.png",SONY YAY [BENGALI]
+http://xown.site/token/stream.php?id=1539406&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-HD-USA.png",SONY TV USA FHD [IN]
+http://xown.site/token/stream.php?id=1483931&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png",SONY TV FHD [IN]
+http://xown.site/token/stream.php?id=1483930&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png",SONY TV HD [IN]
+http://xown.site/token/stream.php?id=1483928&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png",SONY TV FHD (BK) [IN]
+http://xown.site/token/stream.php?id=1483929&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-SAB.png",SONY SAB FHD [IN]
+http://xown.site/token/stream.php?id=1483937&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-SAB.png",SONY SAB HD [IN]
+http://xown.site/token/stream.php?id=1483936&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-PAL.png",SONY PAL [IN]
+http://xown.site/token/stream.php?id=1483972&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-YAY.png",SONY YAY [IN]
+http://xown.site/token/stream.php?id=1483974&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-WAH.png",SONY WAH [IN]
+http://xown.site/token/stream.php?id=1483973&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-PIX.png",SONY PIX FHD [IN]
+http://xown.site/token/stream.php?id=1483971&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png",SONY MAX FHD [IN]
+http://xown.site/token/stream.php?id=1483932&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png",SONY MAX FHD (BK) [IN]
+http://xown.site/token/stream.php?id=1483933&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX-2.png",SONY MAX 2 [IN]
+http://xown.site/token/stream.php?id=1483935&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX-2.png",SONY MAX 2 HD [IN]
+http://xown.site/token/stream.php?id=1483934&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-PLUS.png",STAR PLUS FHD [IN]
+http://xown.site/token/stream.php?id=1483923&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-PLUS.png",STAR PLUS HD [IN]
+http://xown.site/token/stream.php?id=1483922&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-BHARAT.png",STAR BHARAT UK FHD [IN]
+http://xown.site/token/stream.php?id=1483948&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-BHARAT.png",STAR BHARAT HD [IN]
+http://xown.site/token/stream.php?id=1483925&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-BHARAT.png",STAR BHARAT FHD [IN]
+http://xown.site/token/stream.php?id=1483924&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-UTSAV.png",STAR UTSAV HD [IN]
+http://xown.site/token/stream.php?id=1483926&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-UTSAV-MOVIES.png",STAR UTSAV MOVIES FHD [IN]
+http://xown.site/token/stream.php?id=1483927&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD.png",STAR GOLD FHD [IN]
+http://xown.site/token/stream.php?id=1483918&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD.png",STAR GOLD HD [IN]
+http://xown.site/token/stream.php?id=1483917&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD-2.png",STAR GOLD 2 [IN]
+http://xown.site/token/stream.php?id=1483919&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD-2.png",STAR GOLD 2 [IN]
+http://xown.site/token/stream.php?id=1545843&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD-SELECT.png",STAR GOLD SELECT FHD [IN]
+http://xown.site/token/stream.php?id=1483921&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD-SELECT.png",STAR GOLD SELECT HD [IN]
+http://xown.site/token/stream.php?id=1483920&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD-ROMANCE.png",STAR GOLD ROMANCE [IN]
+http://xown.site/token/stream.php?id=1484072&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD-THRILLS.png",STAR GOLD THRILLS [IN]
+http://xown.site/token/stream.php?id=1484069&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-GOLD-THRILLS.png",STAR GOLD THRILLS [IN]
+http://xown.site/token/stream.php?id=1545844&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-PRAVAH.png",STAR PRAVAH HD [IN]
+http://xown.site/token/stream.php?id=1483946&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-VIJAY.png",STAR VIJAY FHD [IN]
+http://xown.site/token/stream.php?id=1483947&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-VIJAY.png",STAR VIJAY [IN]
+http://xown.site/token/stream.php?id=1483945&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-JALSHA.png",STAR JALSHA FHD [IN]
+http://xown.site/token/stream.php?id=1483943&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-UTSAV.png",STAR UTSAV HD [IN]
+http://xown.site/token/stream.php?id=1545810&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TV.png",ZEE TV FHD [IN]
+http://xown.site/token/stream.php?id=1483906&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TV.png",ZEE TV HD [IN]
+http://xown.site/token/stream.php?id=1483905&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/zeetv.png",ZEE TV USA HD [IN]
+http://xown.site/token/stream.php?id=1545805&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-ACTION.png",ZEE ACTION [IN]
+http://xown.site/token/stream.php?id=1483904&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-ANMOL-CINEMA.png",ZEE ANMOL CINEMA [IN]
+http://xown.site/token/stream.php?id=1483996&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-ANMOL.png",ZEE ANMOL HD [IN]
+http://xown.site/token/stream.php?id=1483995&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-BIHAR-JHARKHAND.png",ZEE BIHAR JHARKHAND [IN]
+http://xown.site/token/stream.php?id=1484169&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-BISKOPE.png",ZEE BISKOPE [IN]
+http://xown.site/token/stream.php?id=1545806&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-BOLLWOOD.png",ZEE BOLLWOOD [IN]
+http://xown.site/token/stream.php?id=1483911&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CAFE.png",ZEE CAFE HD [IN]
+http://xown.site/token/stream.php?id=1545854&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CINEMA.png",ZEE CINEMA HD [IN]
+http://xown.site/token/stream.php?id=1483909&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/zeecinema.png",ZEE CINEMA SD [IN]
+http://xown.site/token/stream.php?id=1545855&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CINEMA.png",ZEE CINEMA FHD [IN]
+http://xown.site/token/stream.php?id=1483910&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CLASSIC.png",ZEE CLASSIC FHD [IN]
+http://xown.site/token/stream.php?id=1483912&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-ETC-BOLLYWOOD.png",ZEE ETC BOLLYWOOD [IN]
+http://xown.site/token/stream.php?id=1483998&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-HINDUSTAN.png",ZEE HINDUSTAN [IN]
+http://xown.site/token/stream.php?id=1483999&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-RAJASTHAN.png",ZEE RAJASTHAN [IN]
+http://xown.site/token/stream.php?id=1484029&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-SARTHAK.png",ZEE SARTHAK [IN]
+http://xown.site/token/stream.php?id=1545807&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TALKIES.png",ZEE TALKIES FHD [IN]
+http://xown.site/token/stream.php?id=1545808&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-THIRAI.png",ZEE THIRAI TV [IN]
+http://xown.site/token/stream.php?id=1545809&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-YUVA.png",ZEE YUVA [IN]
+http://xown.site/token/stream.php?id=1484028&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png",SONY TV [IN-UK]
+http://xown.site/token/stream.php?id=1484514&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png",SONY TV FHD [IN-UK]
+http://xown.site/token/stream.php?id=1484515&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-SAB.png",SONY SAB [IN-UK]
+http://xown.site/token/stream.php?id=1484525&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-SAB.png",SONY SAB (BK) [IN-UK]
+http://xown.site/token/stream.php?id=1484526&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png",SONY MAX [IN-UK]
+http://xown.site/token/stream.php?id=1484523&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png",SONY MAX FHD [IN-UK]
+http://xown.site/token/stream.php?id=1484522&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX-2.png",SONY MAX 2 [IN-UK]
+http://xown.site/token/stream.php?id=1484524&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TV.png",ZEE TV HD [IN-UK]
+http://xown.site/token/stream.php?id=1484542&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TV.png",ZEE TV [IN-UK]
+http://xown.site/token/stream.php?id=1484540&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CINEMA.png",ZEE CINEMA FHD [IN-UK]
+http://xown.site/token/stream.php?id=1484543&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-CINEMA.png",ZEE CINEMA [IN-UK]
+http://xown.site/token/stream.php?id=1484544&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-BUSINESS.png",ZEE BUSINESS [IN]
+http://xown.site/token/stream.php?id=1483997&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-NEWS.png",ZEE NEWS [IN]
+http://xown.site/token/stream.php?id=1484027&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-NEWS-BIHAR.png",ZEE NEWS BIHAR [IN]
+http://xown.site/token/stream.php?id=1484000&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/arabic/ZEE-NEWS-MP.png",ZEE NEWS MP & CH [IN]
+http://xown.site/token/stream.php?id=1484002&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/arabic/ZEE-NEWS-MP.png",ZEE NEWS MP [IN]
+http://xown.site/token/stream.php?id=1484001&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/arabic/ZEE-NEWS-MP.png",ZEE NEWS UP [IN]
+http://xown.site/token/stream.php?id=1484003&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-1.png",STAR SPORTS 1 ENGLISH HD [SP]
+http://xown.site/token/stream.php?id=1488094&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-HINDI-1.png",STAR SPORTS 1 FHD [SP]
+http://xown.site/token/stream.php?id=1488098&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-HINDI-1.png",STAR SPORTS 1 HINDI HD [SP]
+http://xown.site/token/stream.php?id=1488096&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-HINDI-1.png",STAR SPORTS 1 [SP]
+http://xown.site/token/stream.php?id=1488099&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-2.png",STAR SPORTS 2 FHD [SP]
+http://xown.site/token/stream.php?id=1488100&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-2.png",STAR SPORTS 2 HD [SP]
+http://xown.site/token/stream.php?id=1488101&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-2.png",STAR SPORTS 2 [SP]
+http://xown.site/token/stream.php?id=1488102&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-3.png",STAR SPORTS 3 [SP]
+http://xown.site/token/stream.php?id=1488103&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-3.png",STAR SPORTS 3 [SP]
+http://xown.site/token/stream.php?id=1488104&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-HINDI-1.png",STAR SPORTS HINDI 1 FHD [SP]
+http://xown.site/token/stream.php?id=1488095&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-HINDI-1.png",STAR SPORTS HINDI 1 [SP]
+http://xown.site/token/stream.php?id=1488097&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/STAR-SPORTS-KANNADA.png",STAR SPORTS KANNADA [SP]
+http://xown.site/token/stream.php?id=1488093&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-1.png",STAR SPORTS SELECT 1 FHD [SP]
+http://xown.site/token/stream.php?id=1488105&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-1.png",STAR SPORTS SELECT 1 HD [SP]
+http://xown.site/token/stream.php?id=1488106&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-1.png",STAR SPORTS SELECT 1 [SP]
+http://xown.site/token/stream.php?id=1488107&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-2.png",STAR SPORTS SELECT 2 FHD [SP]
+http://xown.site/token/stream.php?id=1488108&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-2.png",STAR SPORTS SELECT 2 HD [SP]
+http://xown.site/token/stream.php?id=1488109&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-2.png",STAR SPORTS SELECT 2 [SP]
+http://xown.site/token/stream.php?id=1488110&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-TAMIL.png",STAR SPORTS TAMIL [SP]
+http://xown.site/token/stream.php?id=1488111&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZPLAY.png",STARZPLAY / CRLIFE 1 FHD [AR]
+http://xown.site/token/stream.php?id=1109344&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png",STARZPLAY / CRLIFE 1 HD [AR]
+http://xown.site/token/stream.php?id=1106877&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/STARZPLAY.png",STARZPLAY / CRLIFE 2 FHD [AR]
+http://xown.site/token/stream.php?id=1109345&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/starzplay-logo.png",STARZPLAY / CRLIFE 2 HD [AR]
+http://xown.site/token/stream.php?id=1106876&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104671.png",SONY SIX HD [SPORTS]
+http://xown.site/token/stream.php?id=1104671&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104673.png",STAR SPORTS 1 ENGLISH HD [SPORTS]
+http://xown.site/token/stream.php?id=1104673&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104672.png",STAR SPORTS 1 HINDI HD [SPORTS]
+http://xown.site/token/stream.php?id=1104672&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104674.png",STAR SPORTS 2 HD [SPORTS]
+http://xown.site/token/stream.php?id=1104674&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1104675.png",STAR SPORTS 3 [SPORTS]
+http://xown.site/token/stream.php?id=1104675&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
